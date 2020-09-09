@@ -1,4 +1,0 @@
-<form action="<txp:site_url />">
-  Search
-    <input name="q" type="search" />
-</form>
