@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+<txp:css format="link" />
+<title><txp:page_title /></title>
+<txp:feed_link flavor="atom" format="link" label="Atom" />
+<txp:feed_link flavor="rss" format="link" label="RSS" />
+<link rel="icon" href="https://schema.org/icon" sizes="32x32" />
+<link rel="icon" href="https://schema.org/icon" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://schema.org/icon" />
+<meta name="msapplication-TileImage" content="https://schema.org/icon" />
+</head>
+
+<!--body-->
+<body>
+
+<div class="box">
+<div>
+<txp:link_to_home><txp:image id="2" /></txp:link_to_home>
+</div>
+
+<div>
+<txp:link_to_home>
+<txp:site_name float="center" />
+</txp:link_to_home>
+</div>
+
+<div class="push">
+<txp:output_form form="search_input" />
+</div>
+</div>	        
+
+
+<!--columns follow-->
+<div class="columns"> 
+<txp:category_list wraptag="ul" break="li" />
+</div>
+
+<main>
+<txp:if_individual_article>
+<txp:article />
+<div class="key-words">
+<txp:if_keywords>
+<p>
+<h3>Keywords</h3>
+<txp:keywords wraptag="ul" break="li" />
+</p>
+</txp:if_keywords>
+</div>   
+<div class="sub">
+<txp:related_articles match="keywords" label="Related" labeltag="h3" limit="10" break="li" wraptag="ul">
+<txp:permlink>
+<txp:title />
+</txp:permlink>
+</txp:related_articles>
+</div>
+<div class="comments">
+<txp:if_comments_allowed>
+<txp:comments form="lineitem" break="li" wraptag="ul" />
+<txp:comments_form />
+</txp:if_comments_allowed>
+</txp:if_individual_article>
+</main>
+
+
+<!--footer-->
+<footer>
+<div>
+<small>
+<!--place any licenses, etc., here-->
+<txp:text item="published_with" /> <a rel="external" href="https://textpattern.com/" title="<txp:text item="go_txp_com" />">Textpattern CMS</a></small></p>
+</div>
+</footer>	
+
+
+
+</body>
+</html>
+
+
