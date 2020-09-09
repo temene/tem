@@ -1,0 +1,15 @@
+<article>
+    <h1>
+        <txp:permlink>
+    <txp:title />
+</txp:permlink>
+
+    </h1>
+    <txp:if_article_image>
+        <p>
+            <txp:article_image />
+        </p>
+    </txp:if_article_image>
+   <txp:excerpt />
+
+</article>

@@ -1,0 +1,8 @@
+{
+    "title": "Tem-theme - built on textpattern's Zero (empty theme)",
+    "version": "4.8.2",
+    "description": "A VERY simple theme to promote collaborative project-based relational learning",
+    "author": "Temene",
+    "author_uri": "https://github.com/temene/tem",
+    "txp-type": "textpattern-theme"
+}
