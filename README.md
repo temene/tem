@@ -1,7 +1,7 @@
 # tem
 Simple Texpattern CMS [Textpattern CMS](https://textpattern.com/) theme to interlink multiple-user content (articles) through key words, related articles, categories, the search function, and links to author pages listing authors' articles. Designed to promote collaborative, project-based relational learning but could be used for IndieWeb selfdogfooding purposes. Sample images in the <a href="https://github.com/temene/tem/wiki/Sample-images/">wiki</a>. 
 
-This very simple theme was built on the Textpattern Zero (empty) install.
+This simple theme was built on the Textpattern Zero (empty) install.
 
 The homepage displays the titles of, excerpts from, and links to important content. Important content could include a mission statement and any more permanent messages. This section is followed by feature articles that can be changed as needed. The category list and search bar are always visible on all pages. Where posts in a category/search result exceed the article limit, a "previous" and "next" page option appears. It is also possible to use the search bar to do a rudimentary search not only of site content but author content providing the author name appears in the text of at least one post. It was built through the help of the Textpattern Forum.
 
