@@ -10,7 +10,7 @@ This theme is built fpr the Textpattern CMS [Textpattern CMS](https://textpatter
 1. Beginner friendly - the theme could also be used as a simple illustration of a readymade textpattern site for non-programmers who are interested in tailor making their own simple sites. This could be of use in IndieWeb selfdogfooding.
 2. Anti-bloat. Style inspiration taken from bettermotherfuckingwebsite.com. 
 3. Eco-friendly: the theme scores in the 98th percentile on the Website Carbon Calculator.
-4. No external images used, but code indicates where theme users should place their own images (cf. "icon").
+4. No external images used, but code indicates where theme users should place their own images (cf. "icon"). It also suggests promotion of free software with icon of user's choice.
 5. Sustainable. It is Textpattern, which is an enduring CMS and one with a community. 
 
 #### Important note
@@ -24,15 +24,15 @@ To get this theme working, it is necessary to set up the Sections.
 
 Once textpattern has been installed and this theme has been uploaded (or, for absolute beginners, copy-pasted into each respective section visible under Content and Presentation sections), it is necessary to set up Sections by selecting Sections from Presentation and set up the following four sections:
 
-1.  default with default page and default style - and importantly - no on default page, no on syndicate styles, and no to searchable
+1.  default with default page and default style - and: no on default page, no on syndicate styles, and no to searchable
 
-2. search with search page, default style - and importantly - no on default page, no on syndicate styles, and no to searchable
+2. search with search page and default style - and: no on default page, no on syndicate styles, and no to searchable
 
 The rest of the pages get yes default with default page, syndicate articles, and searchable: 
 
-4. articles with page articles style default;
+4. articles takes articles page and default style
 5. featured takes articles page and default style
-6. important takes articles page and default style . 
+6. important takes articles page and default style  
 
 ###### About video content
 
