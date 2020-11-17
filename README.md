@@ -1,11 +1,11 @@
 # tem
-Simple Texpattern CMS theme to interlink multiple-user content (articles) through key words, related articles, categories, the search function, and links to author pages listing authors' articles. Designed to promote collaborative, project-based relational learning but could be used for IndieWeb selfdogfooding purposes. Sample images in the wiki. Thanks to the Textpattern forum for help.
+Simple Texpattern CMS [Textpattern CMS](https://textpattern.com/) theme to interlink multiple-user content (articles) through key words, related articles, categories, the search function, and links to author pages listing authors' articles. Designed to promote collaborative, project-based relational learning but could be used for IndieWeb selfdogfooding purposes. Sample images in the wiki. 
 
-## Textpattern tem theme
+This very simple theme was built on the Textpattern Zero (empty) install.
 
-This theme is built fpr the Textpattern CMS [Textpattern CMS](https://textpattern.com/). It is a very simple theme built on the Textpattern Zero (empty) install, designed to promote collaborative, project-based relational learning but could be used for other purposes. It seeks to interlink user content (articles) through key words, related articles, categories, the search function, and links to author pages listing an author's articles. The homepage displays the titles of, excerpts from, and links to important content. Important content could include a mission statement and any important, more permanent, messages and is followed by feature articles that can be changed as needed. The category list and search bar are always visible on all pages. Where posts in a category/search result exceed the article limit, a "previous" and "next" page option appears. It is also possible to use the search bar to do a rudimentary search not only of site content but author content providing the author name appears in the text of at least one post. As simple as it is, it was built through the help of the Textpattern Forum.
+The homepage displays the titles of, excerpts from, and links to important content. Important content could include a mission statement and any more permanent messages. This section is followed by feature articles that can be changed as needed. The category list and search bar are always visible on all pages. Where posts in a category/search result exceed the article limit, a "previous" and "next" page option appears. It is also possible to use the search bar to do a rudimentary search not only of site content but author content providing the author name appears in the text of at least one post. As simple as it is, it was built through the help of the Textpattern Forum.
 
-### Features
+## Features
 
 1. Beginner friendly - the theme could also be used as a simple illustration of a readymade textpattern site for non-programmers who are interested in tailor making their own simple sites. This could be of use in IndieWeb selfdogfooding.
 2. Anti-bloat. Style inspiration taken from bettermotherfuckingwebsite.com. 
@@ -13,12 +13,12 @@ This theme is built fpr the Textpattern CMS [Textpattern CMS](https://textpatter
 4. No external images used, but code indicates where theme users should place their own images (cf. "icon"). It also suggests promotion of free software with icon of user's choice.
 5. Sustainable. It is Textpattern, which is an enduring CMS and one with a community. 
 
-#### Important note
+### Important note
 
 This theme was written by a beginner who did not want to task programmers with such a simple design. Constructive criticism is welcome.
 
 
-##### After installing - how to get this theme to work
+#### After installing - how to get this theme to work
 
 To get this theme working, it is necessary to set up the Sections. 
 
@@ -34,7 +34,7 @@ The rest of the pages get yes default with default page, syndicate articles, and
 5. featured takes articles page and default style
 6. important takes articles page and default style  
 
-###### About video content
+##### About video content
 
 Embedding video content requires Morand's oui_embed plugin to get the media_video form to work.
 Link to oui_embed: https://textpattern.org/plugins/1314/oui_embed
