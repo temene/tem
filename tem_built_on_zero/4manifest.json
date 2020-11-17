@@ -1,0 +1,8 @@
+{
+    "title": "Zero (empty theme)",
+    "version": "4.8.2",
+    "description": "The empty theme shipped with Textpattern CMS.",
+    "author": "Team Textpattern",
+    "author_uri": "https://github.com/textpattern/textpattern",
+    "txp-type": "textpattern-theme"
+}

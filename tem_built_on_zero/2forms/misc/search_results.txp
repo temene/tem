@@ -1,0 +1,14 @@
+<h2><txp:permlink><txp:title /></txp:permlink></h2>
+<txp:search_result_excerpt />
+<p>
+        <h2><txp:permlink><txp:author title="1" link="1" /></h2></txp:permlink>
+    </p>
+<txp:if_last_article>
+    <p>
+        <txp:older>Previous</txp:older>
+        <txp:newer>Next</txp:newer>
+    </p>
+</txp:if_last_article>
+
+
+

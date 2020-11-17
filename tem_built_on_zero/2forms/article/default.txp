@@ -1,0 +1,13 @@
+<h2><txp:permlink><txp:title /></txp:permlink></h2>
+<txp:if_individual_article>
+
+    <txp:body />
+
+ <p class="author-date">
+    Posted By: <txp:author link="1" />
+
+
+<txp:else />
+    <txp:excerpt />
+</txp:if_individual_article>
+

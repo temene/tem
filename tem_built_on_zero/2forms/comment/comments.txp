@@ -1,0 +1,4 @@
+ <h5 class="commentAuthor">  <txp:comment_name /> <txp:comment_time /> </h5>
+	<div class="comm">
+       	<txp:comment_message />
+	</div>

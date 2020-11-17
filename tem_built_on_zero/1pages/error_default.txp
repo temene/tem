@@ -1,0 +1,6 @@
+<h1>
+    <txp:error_status />
+</h1>
+<p>
+    <txp:error_message />
+</p>
