@@ -41,10 +41,10 @@ Link to oui_embed: https://textpattern.org/plugins/1314/oui_embed
 Link to explanation of how to install it: https://github.com/NicolasGraph/oui_embed (note it further requires embed - but it explains how to get this).
 
 
-####### License
+## License
 
 Licensed under the [GPLv2 license]. 
 
-######## Thanks
+## Thanks
 
 Thanks to the Textpattern forum for helping this idea come to fruition. Thank you also to the Free Software Foundation.
