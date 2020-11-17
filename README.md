@@ -43,7 +43,7 @@ Link to explanation of how to install it: https://github.com/NicolasGraph/oui_em
 
 ## License
 
-Licensed under the [GPLv2 license]. 
+Licensed under the <a href="https://github.com/temene/tem/blob/tem-theme/tem_built_on_zero/6LICENSE">GPLv2 license</a>. 
 
 ## Thanks
 
