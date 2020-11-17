@@ -37,8 +37,8 @@ The rest of the pages get yes default with default page, syndicate articles, and
 ##### About video content
 
 Embedding video content requires Morand's oui_embed plugin to get the media_video form to work.
-Link to oui_embed: https://textpattern.org/plugins/1314/oui_embed
-Link to explanation of how to install it: https://github.com/NicolasGraph/oui_embed (note it further requires embed - but it explains how to get this).
+Link to oui_embed on the textpattern plugin forum: https://textpattern.org/plugins/1314/oui_embed
+Link to explanation of how to install the plugin on the plugin github page: https://github.com/NicolasGraph/oui_embed (note the plugin further requires installing embed - but Morand's github page linked to here explains how to get that set up).
 
 
 ## License
