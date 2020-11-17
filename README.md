@@ -1,5 +1,5 @@
 # tem
-Simple Texpattern CMS [Textpattern CMS](https://textpattern.com/) theme to interlink multiple-user content (articles) through key words, related articles, categories, the search function, and links to author pages listing authors' articles. Designed to promote collaborative, project-based relational learning but could be used for IndieWeb selfdogfooding purposes. Sample images in the wiki. 
+Simple Texpattern CMS [Textpattern CMS](https://textpattern.com/) theme to interlink multiple-user content (articles) through key words, related articles, categories, the search function, and links to author pages listing authors' articles. Designed to promote collaborative, project-based relational learning but could be used for IndieWeb selfdogfooding purposes. Sample images in the wiki [wiki] (https://github.com/temene/tem/wiki/Sample-images/). 
 
 This very simple theme was built on the Textpattern Zero (empty) install.
 
