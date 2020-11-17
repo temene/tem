@@ -15,7 +15,7 @@ The homepage displays the titles of, excerpts from, and links to important conte
 
 ### Important note
 
-This theme was written by a beginner who did not want to task programmers with such a simple design. Constructive criticism is welcome.
+This theme was written by a beginner who did not want to task programmers with such a simple design. Constructive criticism is welcome. Note that the theme is being used on two sites with over 150 members each.
 
 
 #### After installing - how to get this theme to work
