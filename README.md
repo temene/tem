@@ -3,7 +3,7 @@ Simple Texpattern CMS [Textpattern CMS](https://textpattern.com/) theme to inter
 
 This simple theme was built on the Textpattern Zero (empty) install.
 
-The homepage displays the titles of, excerpts from, and links to important content. Important content could include a mission statement and any more permanent messages. This section is followed by feature articles that can be changed as needed. The category list and search bar are always visible on all pages. Where posts in a category/search result exceed the article limit, a "previous" and "next" page option appears. It is also possible to use the search bar to do a rudimentary search not only of site content but author content providing the author name appears in the text of at least one post. It was built through the help of the Textpattern Forum.
+The homepage displays the titles of, excerpts from, and links to important content. Important content could include a mission statement and any more permanent messages. This section is followed by feature articles that can be changed as needed. The category list and search bar are always visible on all pages. Where posts in a category/search result exceed the article limit, a "previous" and "next" page option appears. It is also possible to use the search bar to do a search not only of site content but also a rudimentary search of author content providing the author name appears in the text of at least one post. Author links within posts lead to the page listing all of the author's articles. It was built through the help of the Textpattern Forum.
 
 ## Features
 
